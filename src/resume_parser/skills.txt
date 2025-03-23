@@ -1,0 +1,104 @@
+# --- Data Science & ML ---
+python
+r
+sql
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+pytorch
+machine learning
+deep learning
+nlp
+data analysis
+data visualization
+data mining
+statistical modeling
+power bi
+tableau
+excel
+spark
+hadoop
+
+# --- Web Development ---
+html
+css
+javascript
+react
+angular
+vue
+node.js
+express
+bootstrap
+tailwind
+sass
+typescript
+next.js
+php
+laravel
+rest api
+graphql
+
+# --- Mobile Development ---
+android
+ios
+flutter
+dart
+kotlin
+swift
+react native
+xamarin
+mobile development
+
+# --- Backend & DevOps ---
+java
+spring
+spring boot
+flask
+django
+dotnet
+mongodb
+postgresql
+mysql
+sqlite
+docker
+kubernetes
+jenkins
+git
+github actions
+aws
+azure
+gcp
+nginx
+redis
+rabbitmq
+ci/cd
+cloud computing
+
+# --- UI/UX & Design ---
+figma
+adobe xd
+photoshop
+illustrator
+wireframing
+prototyping
+user research
+usability testing
+ui design
+ux design
+
+# --- General Tech Skills ---
+agile
+scrum
+jira
+confluence
+linux
+bash
+command line
+visual studio code
+postman
+unit testing
+integration testing
